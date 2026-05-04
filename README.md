@@ -29,6 +29,7 @@
 24. [Gomunime](https://gomunime.top)
 25. [AnimeBagus](https://tv2.animebagus.com)
 26. [NanimeIndo](https://nanimeindo.net)
+27. [Yoredaze](https://www.yoredaze.com)
 
 ---
 
