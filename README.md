@@ -12,7 +12,7 @@
 7. [Oploverz](https://o.oploverz.ltd)
 8. [Doronime](https://doroni.me)
 9. [HunterSekai](https://huntersekai.fansub.my.id)
-10. [Animasu](https://v5.animasu.cc)
+10. [Animasu](https://v1.animasu.app)
 11. [Animekuindo](https://s2.animekuindo.life)
 12. [Kuramanime](https://v17.kuramanime.ink)
 13. [SamehadakuAMP](https://samehadaku.today)
