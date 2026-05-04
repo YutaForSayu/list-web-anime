@@ -36,7 +36,7 @@
 ## Comics (Manga | Manhwa | Manhua | Doujinshi)
 1. [KomikCast](https://v2.komikcast.fit)
 2. [Komikindo](https://komikido.ch)
-3. [WestManga](https://westmanga.tv)
+3. [WestManga](https://westmanga.net)
 4. [Doujindesu](https://doujindesu.ws)
 5. [KyoudaiManga](https://kyoudaimanga.my.id)
 6. [Thrive.moe](https://thrive.moe)
