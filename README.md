@@ -20,7 +20,7 @@
 15. [MyAnimeList](https://myanimelist.net)
 16. [Animepahe](https://animepahe.si)
 17. [AniDB](https://anidb.net)
-18. [Anoboy](https://ww1.anoboy.app)
+18. [Anoboy](https://anoboy.si)
 19. [Nekopoi](https://nekopoi.care)
 20. [NontonHentaᵢ](https://nontonhentai.net)
 21. [YLnime](https://ylnime.com/index.php)
