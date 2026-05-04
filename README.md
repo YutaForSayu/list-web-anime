@@ -10,7 +10,7 @@
 5. [Nekokun](https://nekokun.my.id)
 6. [Nimegami](https://nimegami.id)
 7. [Oploverz](https://o.oploverz.ltd)
-8. [Doronime](https://doronime.id)
+8. [Doronime](https://doroni.me)
 9. [HunterSekai](https://huntersekai.fansub.my.id)
 10. [Animasu](https://v5.animasu.cc)
 11. [Animekuindo](https://s2.animekuindo.life)
@@ -105,5 +105,5 @@
 
 ---
 
-*Last update at ≪03.04.2026-04:19-WIB≫ by ⌈βαηγ⌋*
+*Last update at ≪04.04.2026-22:25-WIB≫ by ⌈βαηγ⌋*
 *First commit at ≪03.04.2026-04:19-WIB≫*
